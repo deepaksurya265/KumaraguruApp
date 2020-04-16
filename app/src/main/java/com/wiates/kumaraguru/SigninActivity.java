@@ -24,4 +24,12 @@ public class SigninActivity extends AppCompatActivity {
         overridePendingTransition(R.anim.slide_in_right,R.anim.stay);
 
     }
+
+    public void hi(){
+
+    }
+
+
+
+
 }

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Android projects-KumaraguruApp.iml" filepath="$PROJECT_DIR$/Android projects-KumaraguruApp.iml" group="KumaraguruApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/Android projects-KumaraguruApp-app.iml" filepath="$PROJECT_DIR$/app/Android projects-KumaraguruApp-app.iml" group="KumaraguruApp/app" />
       <module fileurl="file://$PROJECT_DIR$/Kumaraguru App.iml" filepath="$PROJECT_DIR$/Kumaraguru App.iml" />
       <module fileurl="file://$PROJECT_DIR$/KumaraguruApp.iml" filepath="$PROJECT_DIR$/KumaraguruApp.iml" group="KumaraguruApp" />
       <module fileurl="file://$PROJECT_DIR$/app/KumaraguruApp-app.iml" filepath="$PROJECT_DIR$/app/KumaraguruApp-app.iml" group="KumaraguruApp/app" />

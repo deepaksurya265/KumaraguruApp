@@ -9,6 +9,9 @@ import android.view.View;
 
 
 public class SigninActivity extends AppCompatActivity {
+
+    String hii;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

@@ -7,10 +7,13 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
+import android.widget.EditText;
 
 
 public class SignupActivity extends AppCompatActivity {
 
+
+    EditText hi;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

@@ -1,9 +1,4 @@
 package com.wiates.kumaraguru;
-
-/**
- * Created by kapil on 05/10/18.
- */
-
 import android.content.Context;
 import android.support.design.widget.BottomNavigationView;
 import android.support.design.widget.CoordinatorLayout;

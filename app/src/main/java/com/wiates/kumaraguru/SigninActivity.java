@@ -25,11 +25,4 @@ public class SigninActivity extends AppCompatActivity {
 
     }
 
-    public void hi(){
-
-    }
-
-
-
-
 }

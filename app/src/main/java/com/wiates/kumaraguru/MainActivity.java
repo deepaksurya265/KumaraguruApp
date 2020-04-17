@@ -6,12 +6,12 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowManager;
-import android.widget.Toolbar;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.ActionBarDrawerToggle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.appcompat.app.AppCompatDelegate;
+import androidx.appcompat.widget.Toolbar;
 import androidx.coordinatorlayout.widget.CoordinatorLayout;
 import androidx.core.view.GravityCompat;
 import androidx.drawerlayout.widget.DrawerLayout;
@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity
         setDarkMode(getWindow());
 
         setContentView(R.layout.activity_main);
-        Toolbar toolbar = (Toolbar) findViewById(R.id.toolbar);
+        Toolbar toolbar = (androidx.appcompat.widget.Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
 
@@ -83,12 +83,8 @@ public class MainActivity extends AppCompatActivity
 
         bottomNavigationView.setSelectedItemId(R.id.navigationHome);
 
-        //handling floating action menu
 
 
-    }
-
-    private void setSupportActionBar(Toolbar toolbar) {
     }
 
     @Override

@@ -38,7 +38,7 @@
                     android:layout_alignParentRight="true"/>
             </RelativeLayout>
 
-            <android.support.design.widget.TextInputLayout
+            <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/textInputEmail"
                 style="@style/parent"
                 android:layout_marginTop="@dimen/loginViewsMargin">
@@ -49,9 +49,9 @@
                     android:maxLines="1"
                     android:textSize="15sp"
                     android:hint="@string/login_email_hint"/>
-            </android.support.design.widget.TextInputLayout>
+            </com.google.android.material.textfield.TextInputLayout>
 
-            <android.support.design.widget.TextInputLayout
+            <com.google.android.material.textfield.TextInputLayout
                 android:id="@+id/textInputPassword"
                 style="@style/parent"
                 android:layout_marginTop="@dimen/loginViewsMargin">
@@ -62,7 +62,7 @@
                     android:maxLines="1"
                     android:textSize="15sp"
                     android:inputType="textPassword"/>
-            </android.support.design.widget.TextInputLayout>
+            </com.google.android.material.textfield.TextInputLayout>
 
             <TextView
                 android:id="@+id/forgotpwd"

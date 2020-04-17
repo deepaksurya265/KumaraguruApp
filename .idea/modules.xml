@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/KumaraguruApp.iml" filepath="$PROJECT_DIR$/.idea/KumaraguruApp.iml" group="KumaraguruApp" />
+      <module fileurl="file://$PROJECT_DIR$/app/KumaraguruApp-app.iml" filepath="$PROJECT_DIR$/app/KumaraguruApp-app.iml" group="KumaraguruApp/app" />
+      <module fileurl="file://$PROJECT_DIR$/StudioProjects-KumaraguruApp.iml" filepath="$PROJECT_DIR$/StudioProjects-KumaraguruApp.iml" group="KumaraguruApp" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="KumaraguruApp/app" />
     </modules>
   </component>

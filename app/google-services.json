@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "26794109060",
+    "firebase_url": "https://kumaraguruapp.firebaseio.com",
+    "project_id": "kumaraguruapp",
+    "storage_bucket": "kumaraguruapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26794109060:android:ad7722138dbbeeb3723ad1",
+        "android_client_info": {
+          "package_name": "com.wiates.kumaraguru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26794109060-jdp8160q5uipk02bfb1fnjr9seo1nl9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wiates.kumaraguru",
+            "certificate_hash": "0251815230adca3eb2d7472c3acd3277ad4a4119"
+          }
+        },
+        {
+          "client_id": "26794109060-pelv1id8n398ahodh11ccbmq0vuuv1bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9mBCpgak7aiGuUheYwFlHfqDXTT92Ta0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26794109060-pelv1id8n398ahodh11ccbmq0vuuv1bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
